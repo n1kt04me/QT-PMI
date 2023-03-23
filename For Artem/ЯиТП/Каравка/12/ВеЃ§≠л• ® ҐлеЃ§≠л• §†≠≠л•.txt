@@ -1,0 +1,14 @@
+Входные данные для программы 12:
+number = 123;
+destination = denis;
+days = 12;
+date = 2:2:2;
+breaktime = 3:3;
+Выходные данные для программы 10.1:
+train number: 123
+train destination: denis
+train days: 12
+train breaktime: 2:2
+train date: 2:2:2
+
+

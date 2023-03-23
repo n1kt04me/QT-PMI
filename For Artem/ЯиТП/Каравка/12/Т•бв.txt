@@ -1,0 +1,36 @@
+Тест 1:
+Входные данные: 
+destination = denis
+Ожидаемый результат:
+Вывод информации о поезде с путем назначения denis
+
+Ответ: 
+Found by destination:
+=====destination======
+train number: 123
+train destination: denis
+train days: 12
+train breaktime: 2:2
+train date: 2:2:2
+======================
+
+Тест 2:
+Входные данные: 
+choice = 2;
+Ожидаемый результат:
+Сортировка данных по дням
+
+Ответ: 
+Sorted by days:
+======================
+train number: 123
+train destination: denis
+train days: 12
+train breaktime: 2:2
+train date: 2:2:2
+train number: 124
+train destination: anna
+train days: 21
+train breaktime: 3:3
+train date: 3:3:3
+======================
